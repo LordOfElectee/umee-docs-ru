@@ -4,21 +4,21 @@
   </a>
 </p>
 
-## Documentation
+## Документация
 
-Check out our docs at https://umeeversity.umee.cc/.
+Изучите нашу документацию на https://umeeversity.umee.cc/.
 
-## Project setup
+## Установка проекта
 
 ``` sh
-# Install dependencies
+# Установка зависимостей
 npm install
 
-# Project run
+# Запуск проекта
 npm run dev
 
-Open http://localhost:8080 to view it in the browser.
+Откройте http://localhost:8080, чтобы увидеть проект в браузере.
 
-# Project build
+# Сборка проекта
 npm run build
 ```
